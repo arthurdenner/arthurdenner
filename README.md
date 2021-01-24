@@ -14,7 +14,7 @@ I also share some of my learnings through [blog posts](https://dev.to/arthurdenn
 
 ## Side projects
 
-- [Quanto Custa](https://quantocusta.me)
+- [Quanto Custa](https://quantocusta.netlify.app)
 
 A free app where citizens from Alagoas - the state I come from - can search for products and fuel prices.
 
@@ -32,7 +32,7 @@ It's my pet project. Whenever I want to learn something new, I try to apply that
 - [RabbitMQ](https://www.rabbitmq.com/) + [Web scraping](https://en.wikipedia.org/wiki/Web_scraping) for daily updates on suggestions;
 - [New Relic](https://newrelic.com/) for application monitoring on the API;
 - [Sentry](https://www.sentry.io) for error tracking on the API;
-- [Gatsby](https://www.gatsbyjs.org/) to build the [website](https://quantocusta.me/);
+- [Gatsby](https://www.gatsbyjs.org/) to build the [website](https://quantocusta.netlify.app/);
 - [Flutter](https://flutter.dev/) to build the mobile app;
 - [Firebase](https://firebase.google.com/) for remote config (custom logo during holidays), analytics and crash reports;
 - [Svelte](https://svelte.dev/) for the admin dashboard;
