@@ -38,7 +38,7 @@ It's my pet project. Whenever I want to learn something new, I try to apply that
 - [Svelte](https://svelte.dev/) for the admin dashboard;
 </details>
 
-- [Notificador LTV](https://play.google.com/store/apps/details?id=com.notificador.legendastv)
+- [LTV Monitor](https://ltv-monitor.vercel.app)
 
 A app to notify about new TV shows episodes and movies.
 
@@ -53,7 +53,7 @@ A app to notify about new TV shows episodes and movies.
 - [RabbitMQ](https://www.rabbitmq.com/) + [OneSignal](https://onesignal.com/) for sending push notifications;
 - [New Relic](https://newrelic.com/) for application monitoring on the API;
 - [Sentry](https://www.sentry.io) for error tracking on the API;
-- HTML and CSS to build the [website](https://notificador-ltv.now.sh/);
+- HTML and CSS to build the [website](https://ltv-monitor.vercel.app);
 - [Flutter](https://flutter.dev/) to build the mobile app;
 - [Firebase](https://firebase.google.com/) for remote config (logo), analytics and crash reports;
 </details>
