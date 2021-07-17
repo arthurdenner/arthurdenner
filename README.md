@@ -6,7 +6,7 @@ My main interests are JavaScript/TypeScript, Node, MongoDB, React/React Native, 
 
 Most of my professional experience is on front-end, but I have open-source and side projects where I develop my back-end and mobile skills.
 
-I also share some of my learnings through [my newsletter](https://buttondown.email/arthurdenner) and my [blog](https://arthurdenner.hashnode.dev).
+I also share some of my learnings through [my newsletter](https://buttondown.email/arthurdenner) and [my blog](https://arthurdenner.hashnode.dev).
 
 🇧🇷 &nbsp; From Maceió, Alagoas, Brazil
 
