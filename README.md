@@ -40,14 +40,14 @@ It's my pet project. Whenever I want to learn something new, I try to apply that
 
 - [LTV Monitor](https://ltv-monitor.vercel.app)
 
-A app to notify about new TV shows episodes and movies.
+An app to notify about new TV shows episodes and movies in Brazilian Portuguese.
 
 <details>
   <summary>More details</summary>
   <p>Tools and technologies used:</p>
 
 - [Figma](https://www.figma.com/) for design;
-- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) as the database to users, shows, etc;
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) as the database to users, shows and others;
 - [MongoDB Charts](https://www.mongodb.com/products/charts) and [MongoDB Compass](https://www.mongodb.com/products/compass) to visualize and have insights over the data, e.g, [how the searches are distributed around the state](https://www.instagram.com/p/B9C5s_9pL38/);
 - Node and TypeScript on the back-end to build the API;
 - [RabbitMQ](https://www.rabbitmq.com/) + [OneSignal](https://onesignal.com/) for sending push notifications;
@@ -56,6 +56,21 @@ A app to notify about new TV shows episodes and movies.
 - HTML and CSS to build the [website](https://ltv-monitor.vercel.app);
 - [Flutter](https://flutter.dev/) to build the mobile app;
 - [Firebase](https://firebase.google.com/) for remote config (logo), analytics and crash reports;
+</details>
+
+
+- [Addic7ier](https://addic7ier.vercel.app)
+
+An app to notify about new TV shows episodes in different languages.
+
+<details>
+  <summary>More details</summary>
+  <p>Tools and technologies used:</p>
+
+- [Firebase](https://firebase.google.com) as the database to users, shows and others;
+- [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging) for sending push notifications;
+- [Firebase Cloud Functions](https://firebase.google.com/docs/functions) in Node and TypeScript to build the API;
+- [Preact](https://preactjs.com/) to build the front-end, a Single-Page Application (SPA) and Progressive Web App (PWA);
 </details>
 
 ## Find me
