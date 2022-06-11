@@ -1,6 +1,6 @@
 Hi! :wave:
 
-💻 Domain Front-End Architect at [Kindred Group](https://www.kindredgroup.com/).
+💻 Front-End Domain Architect at [Kindred Group](https://www.kindredgroup.com/).
 
 I prefer to describe myself as a Full Cycle Developer who is involved in every step of the process, from the concept to the implementation and monitoring.
 I also think that Developer Experience (DX) plays a big role in our productivity, so I enjoy working on bundlers, linters and libraries for other developers.
